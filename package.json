@@ -1,6 +1,7 @@
 {
   "name": "svburger",
   "version": "1.0.0",
+  "homepage": "https://slh162.github.io/burger-menu",
   "description": "",
   "main": "index.js",
   "scripts": {
