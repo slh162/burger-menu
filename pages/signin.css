@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    background-color: aliceblue;
+}
+.inp{
+    width: 250px;
+    height: 40px;
+}
+#bu{
+    width: 250px;
+    height: 40px;
+    font-size: x-large;
+    text-decoration: solid;
+}

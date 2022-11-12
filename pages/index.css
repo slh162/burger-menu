@@ -1,0 +1,18 @@
+body{text-align: center;
+background-color: azure;
+} 
+#bu{
+    width: 200px;
+    height: 60px;
+}
+#im{
+    width: 100px;
+    height: 100px;
+}
+
+#imf{
+    width: 100px;
+    height: 100px;
+    padding-left: 120px;
+}
+

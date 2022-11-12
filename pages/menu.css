@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(177, 177, 177);}
+#menD{
+   margin-left: 100px;
+    height:1150px;
+    width: 1000px;
+    background-color: gray;}
+.items{
+    height: 80px;
+    width: 1000px;
+background-color: rgb(39, 153, 240);
+text-align: right;
+font-size: x-large;
+text-decoration: wavy;
+}
+.ima{
+    padding-left: 850px;
+    height: 100px;
+    width: 120px;
+}
+#cart{
+    height: 50px;
+    width: 50px;
+    
+}
+#dart{
+    margin-left: 80px;
+    height: 60px;
+    width: 60px;
+    background-color: transparent;
+    cursor: pointer;
+    border: 0px;
+}
+#top{
+    height: 100px;
+    width: 1100px;
+    display: flex;
+}
+#ti{
+    margin-left: 400px;
+}
+#insertName{
+    margin-left: 200px;
+    font-size: large;
+    color: rgb(96, 87, 220);
+}
